@@ -61,7 +61,7 @@ city_list = ['mumbai',
 api_address='http://api.openweathermap.org/data/2.5/weather?appid=0c42f7f6b53b244c78a418f4f181282a&q='
 
 async def write_file(city, data):
-  file_name = f"data/{city}.txt"
+  file_name = f"weatherApp/data/{city}.txt"
   print(f'Writting data for city : {city}')
   with open(file_name,'wb') as f:
       f.write(data)
