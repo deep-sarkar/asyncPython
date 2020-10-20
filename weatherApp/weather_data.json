@@ -1,0 +1,521 @@
+{
+  "weather": [
+    {
+      "temp": 301.15,
+      "feels_like": 307.79,
+      "temp_min": 301.15,
+      "temp_max": 301.15,
+      "pressure": 1008,
+      "humidity": 94,
+      "city": "mumbai"
+    },
+    {
+      "temp": 302.15,
+      "feels_like": 307.09,
+      "temp_min": 302.15,
+      "temp_max": 302.15,
+      "pressure": 1007,
+      "humidity": 79,
+      "city": "kolkata"
+    },
+    {
+      "temp": 294.41,
+      "feels_like": 296.73,
+      "temp_min": 290.15,
+      "temp_max": 301.48,
+      "pressure": 1009,
+      "humidity": 77,
+      "city": "delhi"
+    },
+    {
+      "temp": 296.19,
+      "feels_like": 293.82,
+      "temp_min": 296.19,
+      "temp_max": 296.19,
+      "pressure": 1010,
+      "humidity": 26,
+      "sea_level": 1010,
+      "grnd_level": 979,
+      "city": "ambala"
+    },
+    {
+      "temp": 302.24,
+      "feels_like": 306.68,
+      "temp_min": 302.24,
+      "temp_max": 302.24,
+      "pressure": 1008,
+      "humidity": 67,
+      "sea_level": 1008,
+      "grnd_level": 993,
+      "city": "dhanera"
+    },
+    {
+      "temp": 302.25,
+      "feels_like": 306.43,
+      "temp_min": 302.25,
+      "temp_max": 302.25,
+      "pressure": 1008,
+      "humidity": 66,
+      "sea_level": 1008,
+      "grnd_level": 994,
+      "city": "disa"
+    },
+    {
+      "temp": 295.73,
+      "feels_like": 298.45,
+      "temp_min": 295.15,
+      "temp_max": 296.15,
+      "pressure": 1012,
+      "humidity": 100,
+      "city": "bengaluru"
+    },
+    {
+      "temp": 286.18,
+      "feels_like": 282.62,
+      "temp_min": 285.37,
+      "temp_max": 287.15,
+      "pressure": 1003,
+      "humidity": 67,
+      "city": "london"
+    },
+    {
+      "temp": 275.96,
+      "feels_like": 268.93,
+      "temp_min": 275.37,
+      "temp_max": 276.48,
+      "pressure": 1010,
+      "humidity": 76,
+      "city": "moscow"
+    },
+    {
+      "temp": 295.15,
+      "feels_like": 297.38,
+      "temp_min": 295.15,
+      "temp_max": 295.15,
+      "pressure": 1017,
+      "humidity": 78,
+      "city": "kathmandu"
+    },
+    {
+      "temp": 297.39,
+      "feels_like": 300.62,
+      "temp_min": 297.39,
+      "temp_max": 297.39,
+      "pressure": 1009,
+      "humidity": 81,
+      "sea_level": 1009,
+      "grnd_level": 947,
+      "city": "pune"
+    },
+    {
+      "temp": 298.15,
+      "feels_like": 296.58,
+      "temp_min": 298.15,
+      "temp_max": 298.15,
+      "pressure": 1010,
+      "humidity": 38,
+      "city": "jaipur"
+    },
+    {
+      "temp": 298.58,
+      "feels_like": 302.93,
+      "temp_min": 298.58,
+      "temp_max": 298.58,
+      "pressure": 1009,
+      "humidity": 82,
+      "sea_level": 1009,
+      "grnd_level": 1000,
+      "city": "goa"
+    },
+    {
+      "temp": 293.93,
+      "feels_like": 293.68,
+      "temp_min": 293.93,
+      "temp_max": 293.93,
+      "pressure": 1014,
+      "humidity": 58,
+      "sea_level": 1014,
+      "grnd_level": 850,
+      "city": "gangtok"
+    },
+    {
+      "temp": 300.15,
+      "feels_like": 304.65,
+      "temp_min": 300.15,
+      "temp_max": 300.15,
+      "pressure": 1007,
+      "humidity": 88,
+      "city": "manali"
+    },
+    {
+      "temp": 296.84,
+      "feels_like": 295.09,
+      "temp_min": 296.84,
+      "temp_max": 296.84,
+      "pressure": 1011,
+      "humidity": 31,
+      "sea_level": 1011,
+      "grnd_level": 972,
+      "city": "chandigarh"
+    },
+    {
+      "temp": 301.15,
+      "feels_like": 307.27,
+      "temp_min": 301.15,
+      "temp_max": 301.15,
+      "pressure": 1008,
+      "humidity": 94,
+      "city": "surat"
+    },
+    {
+      "temp": 299.15,
+      "feels_like": 303.63,
+      "temp_min": 299.15,
+      "temp_max": 299.15,
+      "pressure": 1009,
+      "humidity": 83,
+      "city": "nagpur"
+    },
+    {
+      "temp": 274.79,
+      "feels_like": 271.42,
+      "temp_min": 274.15,
+      "temp_max": 275.37,
+      "pressure": 1024,
+      "humidity": 74,
+      "city": "belgium"
+    },
+    {
+      "temp": 296.45,
+      "feels_like": 294.88,
+      "temp_min": 293.15,
+      "temp_max": 298.15,
+      "pressure": 1010,
+      "humidity": 37,
+      "city": "Sharjah"
+    },
+    {
+      "temp": 302.15,
+      "feels_like": 306.23,
+      "temp_min": 302.15,
+      "temp_max": 302.15,
+      "pressure": 1008,
+      "humidity": 79,
+      "city": "dhaka"
+    },
+    {
+      "temp": 297.15,
+      "feels_like": 301.68,
+      "temp_min": 297.15,
+      "temp_max": 297.15,
+      "pressure": 1011,
+      "humidity": 94,
+      "city": "bhopal"
+    },
+    {
+      "temp": 296.15,
+      "feels_like": 299.26,
+      "temp_min": 296.15,
+      "temp_max": 296.15,
+      "pressure": 1010,
+      "humidity": 88,
+      "city": "indore"
+    },
+    {
+      "temp": 296.15,
+      "feels_like": 299.01,
+      "temp_min": 296.15,
+      "temp_max": 296.15,
+      "pressure": 1010,
+      "humidity": 88,
+      "city": "ujjain"
+    },
+    {
+      "temp": 291.98,
+      "feels_like": 289.05,
+      "temp_min": 290.93,
+      "temp_max": 293.15,
+      "pressure": 1025,
+      "humidity": 55,
+      "city": "tokyo"
+    },
+    {
+      "temp": 283.57,
+      "feels_like": 280.77,
+      "temp_min": 282.59,
+      "temp_max": 284.26,
+      "pressure": 1009,
+      "humidity": 81,
+      "city": "paris"
+    },
+    {
+      "temp": 304.77,
+      "feels_like": 311.04,
+      "temp_min": 302.15,
+      "temp_max": 307.04,
+      "pressure": 1011,
+      "humidity": 74,
+      "city": "jakarta"
+    },
+    {
+      "temp": 288.28,
+      "feels_like": 287.76,
+      "temp_min": 287.04,
+      "temp_max": 290.37,
+      "pressure": 1022,
+      "humidity": 94,
+      "city": "riva"
+    },
+    {
+      "temp": 300.58,
+      "feels_like": 300.96,
+      "temp_min": 300.58,
+      "temp_max": 300.58,
+      "pressure": 1009,
+      "humidity": 48,
+      "sea_level": 1009,
+      "grnd_level": 952,
+      "city": "sagar"
+    },
+    {
+      "temp": 298.78,
+      "feels_like": 300.82,
+      "temp_min": 298.78,
+      "temp_max": 298.78,
+      "pressure": 1009,
+      "humidity": 62,
+      "sea_level": 1009,
+      "grnd_level": 963,
+      "city": "jabalpur"
+    },
+    {
+      "temp": 301.29,
+      "feels_like": 298.65,
+      "temp_min": 301.29,
+      "temp_max": 301.29,
+      "pressure": 1009,
+      "humidity": 19,
+      "sea_level": 1009,
+      "grnd_level": 985,
+      "city": "gwalior"
+    },
+    {
+      "temp": 295.15,
+      "feels_like": 297.32,
+      "temp_min": 295.15,
+      "temp_max": 295.15,
+      "pressure": 1008,
+      "humidity": 83,
+      "city": "lucknow"
+    },
+    {
+      "temp": 297.19,
+      "feels_like": 299.68,
+      "temp_min": 296.48,
+      "temp_max": 298.15,
+      "pressure": 1018,
+      "humidity": 88,
+      "city": "manhatten"
+    },
+    {
+      "temp": 288.34,
+      "feels_like": 284.2,
+      "temp_min": 284.26,
+      "temp_max": 293.15,
+      "pressure": 1020,
+      "humidity": 16,
+      "city": "arizona"
+    },
+    {
+      "temp": 278.38,
+      "feels_like": 274.93,
+      "temp_min": 277.04,
+      "temp_max": 279.82,
+      "pressure": 1020,
+      "humidity": 93,
+      "city": "berlin"
+    },
+    {
+      "temp": 302.15,
+      "feels_like": 307.09,
+      "temp_min": 302.15,
+      "temp_max": 302.15,
+      "pressure": 1007,
+      "humidity": 79,
+      "city": "howrah"
+    },
+    {
+      "temp": 283.88,
+      "feels_like": 281.06,
+      "temp_min": 282.59,
+      "temp_max": 285.37,
+      "pressure": 1027,
+      "humidity": 87,
+      "city": "boston"
+    },
+    {
+      "temp": 298.51,
+      "feels_like": 302.79,
+      "temp_min": 298.51,
+      "temp_max": 298.51,
+      "pressure": 1008,
+      "humidity": 83,
+      "sea_level": 1008,
+      "grnd_level": 976,
+      "city": "kurnool"
+    },
+    {
+      "temp": 301.63,
+      "feels_like": 300.47,
+      "temp_min": 301.63,
+      "temp_max": 301.63,
+      "pressure": 1009,
+      "humidity": 28,
+      "sea_level": 1009,
+      "grnd_level": 973,
+      "city": "satna"
+    },
+    {
+      "temp": 300.38,
+      "feels_like": 301.8,
+      "temp_min": 300.38,
+      "temp_max": 300.38,
+      "pressure": 1009,
+      "humidity": 58,
+      "sea_level": 1009,
+      "grnd_level": 979,
+      "city": "sidhi"
+    },
+    {
+      "temp": 299.15,
+      "feels_like": 303.63,
+      "temp_min": 299.15,
+      "temp_max": 299.15,
+      "pressure": 1007,
+      "humidity": 83,
+      "city": "mirzapur"
+    },
+    {
+      "temp": 301.32,
+      "feels_like": 302.3,
+      "temp_min": 301.32,
+      "temp_max": 301.32,
+      "pressure": 1009,
+      "humidity": 48,
+      "sea_level": 1009,
+      "grnd_level": 982,
+      "city": "dhanbad"
+    },
+    {
+      "temp": 299.15,
+      "feels_like": 303.83,
+      "temp_min": 299.15,
+      "temp_max": 299.15,
+      "pressure": 1009,
+      "humidity": 88,
+      "city": "raipur"
+    },
+    {
+      "temp": 299.15,
+      "feels_like": 302.07,
+      "temp_min": 299.15,
+      "temp_max": 299.15,
+      "pressure": 1007,
+      "humidity": 74,
+      "city": "chapra"
+    },
+    {
+      "temp": 299.08,
+      "feels_like": 301.01,
+      "temp_min": 299.08,
+      "temp_max": 299.08,
+      "pressure": 1009,
+      "humidity": 65,
+      "sea_level": 1009,
+      "grnd_level": 979,
+      "city": "bilaspur"
+    },
+    {
+      "temp": 296.15,
+      "feels_like": 298.35,
+      "temp_min": 296.15,
+      "temp_max": 296.15,
+      "pressure": 1012,
+      "humidity": 88,
+      "city": "mysore"
+    },
+    {
+      "temp": 300.15,
+      "feels_like": 304.65,
+      "temp_min": 300.15,
+      "temp_max": 300.15,
+      "pressure": 1007,
+      "humidity": 88,
+      "city": "chennai"
+    },
+    {
+      "temp": 290.15,
+      "feels_like": 291.06,
+      "temp_min": 290.15,
+      "temp_max": 290.15,
+      "pressure": 1008,
+      "humidity": 88,
+      "city": "amritsar"
+    },
+    {
+      "temp": 301.15,
+      "feels_like": 303.56,
+      "temp_min": 301.15,
+      "temp_max": 301.15,
+      "pressure": 1008,
+      "humidity": 77,
+      "sea_level": 1008,
+      "grnd_level": 1006,
+      "city": "contai"
+    },
+    {
+      "temp": 301.22,
+      "feels_like": 301.86,
+      "temp_min": 301.22,
+      "temp_max": 301.22,
+      "pressure": 1009,
+      "humidity": 46,
+      "sea_level": 1009,
+      "grnd_level": 983,
+      "city": "kota"
+    },
+    {
+      "temp": 300.8,
+      "feels_like": 302.04,
+      "temp_min": 300.8,
+      "temp_max": 300.8,
+      "pressure": 1009,
+      "humidity": 50,
+      "sea_level": 1009,
+      "grnd_level": 978,
+      "city": "bundi"
+    },
+    {
+      "temp": 301.23,
+      "feels_like": 298.39,
+      "temp_min": 301.23,
+      "temp_max": 301.23,
+      "pressure": 1009,
+      "humidity": 21,
+      "sea_level": 1009,
+      "grnd_level": 992,
+      "city": "bhind"
+    },
+    {
+      "temp": 301.87,
+      "feels_like": 299.52,
+      "temp_min": 301.87,
+      "temp_max": 301.87,
+      "pressure": 1009,
+      "humidity": 22,
+      "sea_level": 1009,
+      "grnd_level": 981,
+      "city": "jhansi"
+    }
+  ]
+}
