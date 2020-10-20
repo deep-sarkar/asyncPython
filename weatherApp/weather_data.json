@@ -62,7 +62,7 @@
     },
     {
       "temp": 295.73,
-      "feels_like": 298.45,
+      "feels_like": 299.27,
       "temp_min": 295.15,
       "temp_max": 296.15,
       "pressure": 1012,
@@ -70,17 +70,17 @@
       "city": "bengaluru"
     },
     {
-      "temp": 286.18,
-      "feels_like": 282.62,
+      "temp": 286.19,
+      "feels_like": 282.48,
       "temp_min": 285.37,
       "temp_max": 287.15,
-      "pressure": 1003,
-      "humidity": 67,
+      "pressure": 1002,
+      "humidity": 71,
       "city": "london"
     },
     {
-      "temp": 275.96,
-      "feels_like": 268.93,
+      "temp": 275.98,
+      "feels_like": 268.96,
       "temp_min": 275.37,
       "temp_max": 276.48,
       "pressure": 1010,
@@ -231,9 +231,9 @@
       "city": "ujjain"
     },
     {
-      "temp": 291.98,
-      "feels_like": 289.05,
-      "temp_min": 290.93,
+      "temp": 292.27,
+      "feels_like": 289.41,
+      "temp_min": 291.15,
       "temp_max": 293.15,
       "pressure": 1025,
       "humidity": 55,
@@ -249,12 +249,12 @@
       "city": "paris"
     },
     {
-      "temp": 304.77,
-      "feels_like": 311.04,
-      "temp_min": 302.15,
+      "temp": 305.77,
+      "feels_like": 308.45,
+      "temp_min": 304.82,
       "temp_max": 307.04,
-      "pressure": 1011,
-      "humidity": 74,
+      "pressure": 1010,
+      "humidity": 59,
       "city": "jakarta"
     },
     {
