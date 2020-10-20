@@ -62,7 +62,7 @@ weather_data = {}
 weather_data['weather'] = []
 
 def read_file():
-  with open('weather_data.json','r') as external_file:
+  with open('weatherApp/weather_data.json','r') as external_file:
     try:
       old_data = json.load(external_file)
     except json.decoder.JSONDecodeError:
@@ -72,7 +72,7 @@ def read_file():
 def write_file(data):
   old_data = read_file()
   print('writting data into file.')
-  with open('weather_data.json','w') as external_file:
+  with open('weatherApp/weather_data.json','w') as external_file:
     old_data['weather'].append(data)
     json.dump(old_data, external_file, indent=2)
 
